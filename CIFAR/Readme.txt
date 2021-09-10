@@ -1,0 +1,1 @@
+This contains DenseNet trained on CIFAR and weights of it.
